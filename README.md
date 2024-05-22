@@ -128,4 +128,4 @@ AdminLTE.io reserves the right to change the license of future releases.
 # Time-Attendance-System
 >>>>>>> origin/main
 
-update
+This is a time attendance system which created by using PHP and MySql.
