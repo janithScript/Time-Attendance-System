@@ -1,4 +1,4 @@
-<?php  
+<?php
 include_once './dbc.php';
 
 $div = $_POST['div'];
@@ -20,7 +20,7 @@ if ($result) {
     header("Location: index.php?signup=success");
     exit();
 } else {
-    // Ensure that the script stops execution after redirection
+    //Ensure that the script stops execution after redirection
     header("Location: index.php?signup=failed");
     exit();
 }
