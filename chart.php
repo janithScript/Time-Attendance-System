@@ -2,7 +2,7 @@
 
   include ('includes/header2.php');
   include ('includes/navbar2.php');
-   ?>
+?>
 
  Main content
     <div class="content">
